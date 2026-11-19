@@ -1,0 +1,7 @@
+# 个人布局数据，含窗口标题，不公开
+window_layouts.json
+
+# Hammerspoon 运行时产生的
+Spoons/
+.DS_Store
+__pycache__/
